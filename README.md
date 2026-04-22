@@ -1,4 +1,4 @@
-# BudgetWise — Student Budget Management System
+# Smart Budget Management System
 
 A full-stack MERN application for student financial management with statistical analysis, charts, and linear regression forecasting.
 
@@ -23,7 +23,9 @@ A full-stack MERN application for student financial management with statistical 
 - ✅ Charts: Doughnut, Bar, Line
 - ✅ Statistical Analysis: Mean, Variance, Standard Deviation per category
 - ✅ Linear Regression for spending trend & 3-month forecast
-- ✅ Responsive dark UI
+- ✅ Dynamic Monthly Filtering (Time travel through historical analytics)
+- ✅ Human-readable statistical insights & budget warnings
+- ✅ Responsive Dark/Light professional UI with refined typography
 
 ---
 
